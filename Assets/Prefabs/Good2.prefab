@@ -129,9 +129,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d44832ac577b2644ba2b73e28cc04c4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  death: {fileID: 8300000, guid: 42564e9cd09b0ee48830059e98e4fd77, type: 3}
-  explos: {fileID: 2979432903205767533}
-  finish: {fileID: 0}
+  _death: {fileID: 8300000, guid: dc2359cfd1838c649bce4f483c9dfd96, type: 3}
+  _explos: {fileID: 2979432903205767533}
+  _finish: {fileID: 0}
 --- !u!82 &7881043873157098369
 AudioSource:
   m_ObjectHideFlags: 0
