@@ -1712,7 +1712,7 @@ GameObject:
   - component: {fileID: 1543955929}
   - component: {fileID: 1543955928}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: Trail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2523,7 +2523,7 @@ GameObject:
   - component: {fileID: 1897392148}
   - component: {fileID: 1897392147}
   m_Layer: 0
-  m_Name: efffects
+  m_Name: Post effects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3044,6 +3044,30 @@ PrefabInstance:
       propertyPath: scores
       value: 
       objectReference: {fileID: 1294538939}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _scores
+      value: 
+      objectReference: {fileID: 1294538939}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _targets.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _targets.Array.data[0]
+      value: 
+      objectReference: {fileID: 6034686424761897684, guid: be85f3deda3b6e046ac94db5c2a8027a, type: 3}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _targets.Array.data[1]
+      value: 
+      objectReference: {fileID: 4646453706694565450, guid: 3904a295e451afe4bb7587b39166c88d, type: 3}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _targets.Array.data[2]
+      value: 
+      objectReference: {fileID: 3770098691941469250, guid: f27c87256be079049b0934625bbc6084, type: 3}
+    - target: {fileID: 5206455391339039079, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
+      propertyPath: _targets.Array.data[3]
+      value: 
+      objectReference: {fileID: 5852818013310876472, guid: 5a94fb7b6e7792e4f992ad95a25816bb, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10c88d107476e3f43afa3fd6ea43a887, type: 3}
 --- !u!1001 &7645592587485249990
